@@ -1,0 +1,29 @@
+{
+  "name": "finaltest",
+  "version": "1.0.0",
+  "description": "A native application built with NativeScript-Vue",
+  "author": "P-a <57420066+Barbouy@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nativescript/core": "~7.0.0",
+    "@vue/devtools": "^5.3.3",
+    "nativescript-plugin-firebase": "^10.5.2",
+    "nativescript-push-notifications": "^1.1.6",
+    "nativescript-socketio": "^3.3.1",
+    "nativescript-toasty": "^3.0.0-alpha.2",
+    "nativescript-vue": "^2.6.1",
+    "nativescript-vue-devtools": "^1.4.0",
+    "tns-core-modules": "^6.5.18"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@nativescript/ios": "7.0.0",
+    "@nativescript/webpack": "~3.0.0",
+    "babel-loader": "^8.1.0",
+    "nativescript-vue-template-compiler": "^2.6.0",
+    "node-sass": "^4.13.1",
+    "vue-loader": "^15.9.1"
+  },
+  "main": "main"
+}
