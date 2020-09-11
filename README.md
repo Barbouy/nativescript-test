@@ -1,4 +1,5 @@
 # NativeScript-Vue Application
+## Attention à l'url dans la balise webview !
 
 > A native application built with NativeScript-Vue
 

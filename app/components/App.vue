@@ -1,7 +1,7 @@
 <template>
     <Page>
         <GridLayout columns="*" rows="*" iosOverflowSafeArea="false">
-            <WebView col="0" row="0" src="http://192.168.1.75:8080/"/>
+            <WebView col="0" row="0" src="http://localhost:8080/"/>
         </GridLayout>
     </Page>
 </template>
